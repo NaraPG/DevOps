@@ -18,9 +18,7 @@
 ## Dependencies
 > - Install [VS Code](https://code.visualstudio.com/download)
 > - Install [Node.js](https://nodejs.org/en/)
-
-## Run Code
-
+> - Install [Docker](https://docs.docker.com/docker-for-windows/install/)
 
 ## Technologies
 > - JavaScript
